@@ -28,7 +28,8 @@ jobs:
 
     - name: Update File
       run: |
-        mkdir files
+        cd scripts
+        python ./get.py
 
     - name: commit
       run: |
