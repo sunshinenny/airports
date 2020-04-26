@@ -1,6 +1,0 @@
-trojan=gzcmb1.zhs.company:30011, password=8e7e8ad5-3158-3846-8293-8be0a680d3ff, tls-host=, over-tls=true, tls-verification=true, tag=❖CN1❖❸TJ.HK灵刃 [NF] [Trojan Beta] [1]
-vmess = gzcmb1.zhs.company:30012, method=none, password=8e7e8ad5-3158-3846-8293-8be0a680d3ff, obfs-host=hkbl3n.zhs.company, obfs=wss, obfs-uri=/ed4b46ee, tag=❖CN1❖❸V2.HKBN波澜 [NF] [0.8]
-vmess = hkgaer.zhs.company:443, method=none, password=8e7e8ad5-3158-3846-8293-8be0a680d3ff, obfs-host=hkgaer.zhs.company, obfs=wss, obfs-uri=/zhs, tag=❸V2.HKG判官 [NF] [荐] [3]
-vmess = gzcmb1.zhs.company:30008, method=none, password=8e7e8ad5-3158-3846-8293-8be0a680d3ff, obfs-host=hkqy7u.zhs.company, obfs=wss, obfs-uri=/zhs, tag=❖CN1❖❸V2.HKT契约 [NF] [0.8]
-vmess = hklhjk.zhs.company:443, method=none, password=8e7e8ad5-3158-3846-8293-8be0a680d3ff, obfs-host=hklhjk.zhs.company, obfs=over-tls, tag=❸V2.HK灵魂 [NF*] [阿里云] [1]	
-vmess = hksdnb.zhs.company:443, method=none, password=8e7e8ad5-3158-3846-8293-8be0a680d3ff, obfs-host=hksdnb.zhs.company, obfs=over-tls, tag=❸V2.HK闪电 [NF*] [荐] [0.9]
