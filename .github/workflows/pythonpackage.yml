@@ -27,7 +27,7 @@ jobs:
       run: |
         mkdir files
         git config --global user.email sunshinenny@icloud.com
-        git config --global user.password @github1844
+        git config --global user.name sunshinenny
         git add .
         git commit -m "update" -a
     - name: Push changes
