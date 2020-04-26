@@ -14,7 +14,7 @@ for singleLine in lines:
             pass
         else:
             w += ",".join(l)
-            w +="\n"
+            w +="[copy]\n"
 f = open("zhs.txt",mode="w")
 f.write(w)
 f.close()
