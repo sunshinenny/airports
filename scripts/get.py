@@ -15,6 +15,6 @@ for singleLine in lines:
         else:
             w += ",".join(l)
             w +="\n"
-f = open("zhs.yml",mode="w")
+f = open("zhs.txt",mode="w")
 f.write(w)
 f.close()
