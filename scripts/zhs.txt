@@ -1,0 +1,2 @@
+vmess = sglyc6.zhs.company:1443, method=none, password=8e7e8ad5-3158-3846-8293-8be0a680d3ff, obfs-host=sglyc6.zhs.company, obfs=over-tls, tag=❸V2.SG烈焰 [NF*] [荐] [1][copy]
+vmess = sghyi5.zhs.company:443, method=none, password=8e7e8ad5-3158-3846-8293-8be0a680d3ff, obfs-host=sghyi5.zhs.company, obfs=over-tls, tag=❸V2.SG黑夜 [NF] [荐] [1][copy]
