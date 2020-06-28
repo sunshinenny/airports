@@ -1,0 +1,1 @@
+vmess = sglmz9.zhs.company:443, method=none, password=8e7e8ad5-3158-3846-8293-8be0a680d3ff, obfs-host=sglmz9.zhs.company, obfs=wss, obfs-uri=/zhs, tag=❷V2.SG黎明 [NF] [1.5][copy]
