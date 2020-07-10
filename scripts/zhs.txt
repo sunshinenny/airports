@@ -1,0 +1,1 @@
+trojan=sglmz9.zhs.company:8443, password=8e7e8ad5-3158-3846-8293-8be0a680d3ff, tls-host=sglmz9.zhs.company, over-tls=true, tls-verification=true, tag=❷TJ.SG黎明 [NF] [联通] [1.5][copy]
