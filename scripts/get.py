@@ -5,7 +5,7 @@ lines = origin.split("\n")
 w = ""
 for singleLine in lines:
     l = singleLine.split(",")
-    if "SG"  in l[len(l)-1]:
+    if "HK" or "TW" or "SG" in l[len(l)-1]:
         if "NF" not in l[len(l)-1]:
             pass
         elif "游戏" in l[len(l)-1]:
