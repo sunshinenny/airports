@@ -1,6 +1,6 @@
 import requests
 origin = requests.get(
-    "https://zhs.company/link/cNFFLggjAAvwtHFc?mu=6&ox=1&tj=1").text
+    "https://zhs.futbol/link/cNFFLggjAAvwtHFc?mu=6&ox=1&tj=1").text
 lines = origin.split("\n")
 w = ""
 for singleLine in lines:
