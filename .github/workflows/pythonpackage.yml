@@ -6,7 +6,10 @@ name: Filter HK Airports
 on: 
   schedule:
     - cron: "0 */6 * * *"
-
+  push:
+    branches: 
+      - main
+      - master
 jobs:
   build:
     runs-on: ubuntu-latest
