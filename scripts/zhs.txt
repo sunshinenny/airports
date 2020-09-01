@@ -1,3 +1,4 @@
+trojan=hkqdy6.zhs.company:443, password=8e7e8ad5-3158-3846-8293-8be0a680d3ff, tls-host=hkqdy6.zhs.company, over-tls=true, tls-verification=true, tag=❶TJ.HK奇点 [*NF] [联通] [0.8][copy]
 vmess = hkbnc2.zhs.company:11400, method=none, password=8e7e8ad5-3158-3846-8293-8be0a680d3ff, obfs-host=hkbnc2.zhs.company, obfs=over-tls, tag=❶V2.HK流萤 [NF] [孬] [1][copy]
 trojan=wttwz9.zhs.company:8443, password=8e7e8ad5-3158-3846-8293-8be0a680d3ff, tls-host=wttwz9.zhs.company, over-tls=true, tls-verification=true, tag=❷TJ.HK湾仔 [NF] [荐] [1][copy]
 trojan=gzcm0o.zhs.company:30013, password=8e7e8ad5-3158-3846-8293-8be0a680d3ff, tls-host=hktkj9.zhs.company, over-tls=true, tls-verification=true, tag=❖CN1❖❷TJ.HK铠甲 [NF] [TVB] [1][copy]
