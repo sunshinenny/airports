@@ -5,4 +5,5 @@ trojan=gzcm0o.zhs.company:30013, password=8e7e8ad5-3158-3846-8293-8be0a680d3ff, 
 trojan=hktkj9.zhs.company:2053, password=8e7e8ad5-3158-3846-8293-8be0a680d3ff, tls-host=hktkj9.zhs.company, over-tls=true, tls-verification=true, tag=❷TJ.HK铠甲 [NF] [TVB] [1][copy]
 trojan=sglmz9.zhs.company:8443, password=8e7e8ad5-3158-3846-8293-8be0a680d3ff, tls-host=sglmz9.zhs.company, over-tls=true, tls-verification=true, tag=❷TJ.SG黎明 [NF] [联通] [1.5][copy]
 vmess = hktkj9.zhs.company:8443, method=none, password=8e7e8ad5-3158-3846-8293-8be0a680d3ff, obfs-host=hktkj9.zhs.company, obfs=wss, obfs-uri=/zhs, tag=❷V2.HK铠甲 [NF] [1][copy]
+vmess = gzcm0o.zhs.company:30015, method=none, password=8e7e8ad5-3158-3846-8293-8be0a680d3ff, obfs-host=twwwn3.zhs.company, obfs=wss, obfs-uri=/zhs, tag=❖CN1❖❷V2.TW台湾 [动画疯] [NF] [1][copy]
 vmess = twwwn3.zhs.company:8443, method=none, password=8e7e8ad5-3158-3846-8293-8be0a680d3ff, obfs-host=twwwn3.zhs.company, obfs=wss, obfs-uri=/zhs, tag=❷V2.TW台湾 [动画疯] [NF] [1][copy]
