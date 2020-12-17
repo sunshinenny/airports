@@ -1,5 +1,3 @@
-trojan=cnot3a.zhs.company:44442, password=58dfde0d-bdcc-365f-950e-76959e114976, tls-host=hkqdy6.zhs.company, over-tls=true, tls-verification=true, tag=❖CN1❖❶TJ.HK奇点 [*NF] [1][copy]
-trojan=hkqdy6.zhs.company:443, password=58dfde0d-bdcc-365f-950e-76959e114976, tls-host=hkqdy6.zhs.company, over-tls=true, tls-verification=true, tag=❶TJ.HK奇点 [*NF] [1][copy]
 vmess = hkbnc2.zhs.company:11400, method=none, password=58dfde0d-bdcc-365f-950e-76959e114976, obfs-host=hkbnc2.zhs.company, obfs=over-tls, tag=❶V2.HK流萤 [NF] [1][copy]
 trojan=gzcmb1.zhs.company:30030, password=58dfde0d-bdcc-365f-950e-76959e114976, tls-host=hktkj9.zhs.company, over-tls=true, tls-verification=true, tag=❖CN1❖❷TJ.HK铠甲 [NF] [TVB] [1][copy]
 trojan=hktkj9.zhs.company:2053, password=58dfde0d-bdcc-365f-950e-76959e114976, tls-host=hktkj9.zhs.company, over-tls=true, tls-verification=true, tag=❷TJ.HK铠甲 [NF] [TVB] [1][copy]
